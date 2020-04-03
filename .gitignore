@@ -1,3 +1,4 @@
 Pipfile
 Pipfile.lock
-.idea
+.idea/
+.DS_Store/
