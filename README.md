@@ -12,3 +12,4 @@ To play the game, you need to have Docker installed.
 <li>The board indices start from 0</li>
 <li>The 1st square of the board is [0,0]</li>
 </ul>
+
